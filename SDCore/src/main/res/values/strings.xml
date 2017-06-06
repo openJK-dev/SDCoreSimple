@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SDCore</string>
+    <!-- 网络请求提示 -->
+    <string name="tip_json_err">数据解析异常</string>
+    <string name="re_login_tip">未登录,请重新登录</string>
+    <string name="re_shop_err">店铺异常，重新选择店铺</string>
+    <string name="url_method_err">接口方法名错误</string>
+    <string name="tip_io_err">IO异常</string>
+    <string name="tip_return_data_null">后台返回数据为空</string>
+    <string name="err_back_data">服务器返回数据格式错误</string>
+    <string name="loading_data">数据加载中...</string>
+    <string name="download_data">正在下载,请稍后...</string>
+    <string name="get_param_no">getParameter参数不能为空</string>
+    <string name="post_param_no">postParameter参数不能为空</string>
+    <string name="urlmethod_no">接口名参数urlMethod不能为空</string>
+</resources>
